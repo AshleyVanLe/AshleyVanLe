@@ -23,7 +23,7 @@
 ### Some fun facts about me
 
 - 🗺️ Can't survive without Google Maps, still mix up left and right
-- ☕ Two sips of coffee and I'm jittery, drink it anyway, love all things brown
+- ☕ Two sips of coffee and I'm jittery, drink it anyway cuz love all things brown
 - 🔮 Read tarot, study astrology — tread carefully, I might know your secrets
 - ✨ Also, the cards said you should hire me :)
 ###
@@ -66,19 +66,6 @@ Cloud & Data Platforms <br/> <img src="https://img.shields.io/badge/AWS-FF9900?s
 - Reach out — dashboards, automation projects, or just to talk data
 
 ###
-
-
-<img width="2400" height="84" alt="4" src="https://github.com/user-attachments/assets/c9b7a60b-64f4-4ce0-bce5-c273de785781" />
-
-
-###
-
-<p align="left">
-<a href="mailto:le004219@stthomas.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/van-ashley-le"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://behance.net/your-handle"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-</p>
-
 
 ###
 
