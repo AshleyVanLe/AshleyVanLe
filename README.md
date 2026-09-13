@@ -1,33 +1,8 @@
 <img width="2172" height="724" alt="ChatGPT Image Sep 12, 2026, 10_32_07 PM" src="https://github.com/user-attachments/assets/bde685a2-4364-492a-8e79-1ec95a375ab9" />
 
+<img width="1536" height="1024" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/643b04a0-7213-4ef6-a5f4-c23f16fec01e" />
 
 
-###
-
-<img width="2400" height="84" alt="1" src="https://github.com/user-attachments/assets/136b2faf-cfd7-4caa-afd5-e89a02361862" />
-
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### My name is Van, but I go by Ashley
-
-- 👩‍🎓First gen from Vietnam
-- 🎓 B.S. Data Science & Statistics @ UST — GPA 3.9/4.0
-- 📊 2x Analytics Intern, 2 Research Experiences, 2 Competition Finals
-- 🐍 Building models & pipelines in Python, R, SQL, plus a bioinformatics research project
-###
-
-</td>
-<td valign="top" width="50%">
-
-### Some fun facts about me
-
-- 🗺️ Can't survive without Google Maps, still mix up left and right
-- ☕ Two sips of coffee and I'm jittery, drink it anyway cuz love all things brown
-- 🔮 Read tarot, study astrology — tread carefully, I might know your secrets
-- ✨ Also, the cards said you should hire me :)
 ###
 
 </td>
