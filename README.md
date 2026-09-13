@@ -1,4 +1,5 @@
-<img width="3168" height="792" alt="Blue Neon Retro Y2K Computer UI Style LinkedIn Banner" src="https://github.com/user-attachments/assets/6182537d-6969-4f3f-b462-2de1be112f5e" />
+<img width="2172" height="724" alt="ChatGPT Image Sep 12, 2026, 10_32_04 PM" src="https://github.com/user-attachments/assets/bc5cb59f-9c80-48e7-b714-8344469c38cb" />
+
 
 ###
 
