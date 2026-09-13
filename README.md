@@ -30,9 +30,9 @@
 <td width="760" valign="top">
 <h2>𝔗𝔥𝔢 ℌ𝔦𝔤𝔥 𝔓𝔯𝔦𝔢𝔰𝔱𝔢𝔰𝔰</h2>
 
-| 𝑨𝒏𝒂𝒍𝒚𝒔𝒕 𝒐𝒇 𝒉𝒊𝒅𝒅𝒆𝒏 𝒑𝒂𝒕𝒕𝒆𝒓𝒏🔮<br><br>
+| 𝑨𝒏𝒂𝒍𝒚𝒔𝒕 𝒐𝒇 𝒉𝒊𝒅𝒅𝒆𝒏 𝒑𝒂𝒕𝒕𝒆𝒓𝒏<br><br>
 
-Hi! I’m Van, but I go by 𝗔𝘀𝗵𝗹𝗲𝘆. Friends call me **𝘋𝘪𝘷𝘢**🪬<br>
+Hi! I’m Van, but I go by Ashley. Friends call me **𝘋𝘪𝘷𝘢**🪬<br>
 
 ✦ Reading between the rows<br>
 
@@ -52,7 +52,7 @@ Hi! I’m Van, but I go by 𝗔𝘀𝗵𝗹𝗲𝘆. Friends call me **𝘋𝘪�
 
 <h2>𝔗𝔥𝔢 𝔒𝔱𝔥𝔢𝔯 𝔖𝔦𝔡𝔢</h2>
 
-| 𝑾𝒉𝒂𝒕 𝒕𝒉𝒆 𝒅𝒂𝒕𝒂 𝒅𝒐𝒆𝒔𝒏’𝒕 𝒕𝒆𝒍𝒍 𝒚𝒐𝒖🩵<br><br>
+| 𝑾𝒉𝒂𝒕 𝒕𝒉𝒆 𝒅𝒂𝒕𝒂 𝒅𝒐𝒆𝒔𝒏’𝒕 𝒕𝒆𝒍𝒍 𝒚𝒐𝒖<br><br>
 
 Part analyst, part creative. A little mystical on the side🪄<br>
 
@@ -77,9 +77,9 @@ Part analyst, part creative. A little mystical on the side🪄<br>
 <table width="2172">
 <tr>
 
-<td width="434" valign="top">
+<td width="420" valign="top">
 
-<h3>Programming</h3>
+Programming
 
 <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge">
@@ -90,7 +90,7 @@ Part analyst, part creative. A little mystical on the side🪄<br>
 
 <td width="434" valign="top">
 
-<h3>Statistical Analysis</h3>
+Statistical Analysis
 
 <img src="https://img.shields.io/badge/HYPOTHESIS_TESTING-586F8C?style=for-the-badge">
 <img src="https://img.shields.io/badge/ANOVA-586F8C?style=for-the-badge">
@@ -102,7 +102,7 @@ Part analyst, part creative. A little mystical on the side🪄<br>
 
 <td width="434" valign="top">
 
-<h3>Data Visualization</h3>
+Data Visualization
 
 <img src="https://img.shields.io/badge/POWER_BI-D6A72C?style=for-the-badge">
 <img src="https://img.shields.io/badge/TABLEAU-3E6F9E?style=for-the-badge">
@@ -112,7 +112,7 @@ Part analyst, part creative. A little mystical on the side🪄<br>
 
 <td width="434" valign="top">
 
-<h3>Data Management</h3>
+Data Management
 
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge">
 <img src="https://img.shields.io/badge/SAP-3E8EAE?style=for-the-badge">
@@ -121,9 +121,9 @@ Part analyst, part creative. A little mystical on the side🪄<br>
 </td>
 
 
-<td width="434" valign="top">
-
-<h3>Cloud & Data Platforms</h3>
+<td width="448" valign="top">
+  
+Cloud & Data Platforms
 
 <img src="https://img.shields.io/badge/AWS-CB7A1A?style=for-the-badge">
 <img src="https://img.shields.io/badge/AZURE-2878A8?style=for-the-badge">
