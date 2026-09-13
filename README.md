@@ -1,11 +1,7 @@
 <!-- HEADER -->
-<img
-  width="2172"
-  height="724"
-  alt="Ashley Le Header"
-  src="https://github.com/user-attachments/assets/bde685a2-4364-492a-8e79-1ec95a375ab9"
-/>
 
+<img width="2172" height="724" alt="ChatGPT Image Sep 12, 2026, 10_32_04 PM" src="https://github.com/user-attachments/assets/0ca9179c-6904-411e-a974-44d2a0aad127" />
+<hr>
 <img width="2172" height="159" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/6d527e50-7ec2-4f68-90bb-ae3be86ade36" />
 
 
@@ -135,11 +131,8 @@ Cloud & Data Platforms
 </tr>
 </table>
 
-
+<hr>
 <!-- FOOTER -->
-<img
-  width="2172"
-  height="724"
-  alt="Let's Connect and Work Together"
-  src="https://github.com/user-attachments/assets/38d75dee-3df5-46ba-a338-9d0dda99729d"
-/>
+<img width="2172" height="496" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/25bb46b1-245d-4b32-86bb-2aad1f104ae2" />
+
+
