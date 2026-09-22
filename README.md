@@ -26,13 +26,13 @@ Hi! I'm Van, but I go by <b>Ashley</b>. Friends call me <b><i>Diva</i></b> <br>
 
 ✦ <b>GPA:</b> 3.9 / 4.0<br>
 
-✦ <b>3 internships</b>(2× analytics internships in U.S. medtech)<br>
+✦ <b>3 internships</b>(2× analytics in a leading medtech firm in the U.S.)<br>
 
 ✦ <b>2× Research Assistant</b> experiences<br>
 
 ✦ <b>Interested in:</b> Fintech, Women's Health, Beauty<br>
 
-✦ <b>Fun fact:</b> I'm a work-aholic...😓
+✦ <b>Fun fact:</b> I'm a work-aholic...😓(*p/s: that's a fact, not fun)
 </td>
 <!-- RIGHT COLUMN: LINKS -->
 <td width="760" valign="top">
