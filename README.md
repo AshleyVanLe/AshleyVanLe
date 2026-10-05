@@ -24,7 +24,7 @@ Hi! I'm Van, but I go by <b>Ashley</b>. Friends call me <b><i>Diva</i></b> <br>
 
 ✦ <b>Data Science + Statistics</b> at the University of St. Thomas💜 '28<br>
 
-✦ <b>GPA:</b> 3.9 / 4.0<br>
+✦ <b>GPA:</b> 3.8/4.0<br>
 
 ✦ <b>3 internships</b>(2× analytics in a leading medtech firm in the U.S.)<br>
 
@@ -41,14 +41,14 @@ Hi! I'm Van, but I go by <b>Ashley</b>. Friends call me <b><i>Diva</i></b> <br>
 <i>More projects, writing, and pieces of my brain live here.</i><br><br>
 🖥️ <b>WEBSITE:</b>
 Projects, dashboards, reports, and the more <i>diva</i> side of my work.<br>
-<a href="YOUR_WEBSITE_URL">Visit my website →</a><br><br>
+<a href="https://ashley-le-portfolio.vercel.app/">WEBSITE</a><br><br>
 
 ✍️ <b>Medium:</b>
 Longer analysis, observations, and things I couldn't fit into a dashboard.<br>
-<a href="https://medium.com/@le.ashleyvann">Read my writing →</a><br><br>
+<a href="https://medium.com/@le.ashleyvann">MEDIUM</a><br><br>
 
 💼 <b>LinkedIn:</b>
-<a href="https://www.linkedin.com/in/van-ashley-le/">Connect with me →</a>
+<a href="https://www.linkedin.com/in/van-ashley-le/">LINKEDIN</a>
 
 </td>
 
